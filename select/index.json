@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "輝く月のように",
+  "base_artist": "Superfly",
+  "createdAt": "2026-03-08T05:48:30.424016Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "輝く月のように",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/01_輝く月のように_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "輝く月のように",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/02_輝く月のように_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "輝く月のように (Superfly 10th Anniversary Premium LIVE \"Bloom\")",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/03_輝く月のように_(Superfly_10th_Anniversary_Premium_LIVE__Bloom_)_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "輝く月のように (カラオケ)",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/04_輝く月のように_(カラオケ)_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Superfly 『輝く月のように』Music Video",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/05_Superfly_『輝く月のように』Music_Video_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "輝く月のように - Kagayaku Tsukinoyouni",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/06_輝く月のように_-_Kagayaku_Tsukinoyouni_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "輝く月のように (Superfly 10th Anniversary Premium LIVE \"Bloom\")",
+      "artist": "スーパーフライ superfly",
+      "has_synced": true,
+      "path": "select/07_輝く月のように_(Superfly_10th_Anniversary_Premium_LIVE__Bloom_)_スーパーフライ_superfly.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kagayaku Tsukinoyouni (輝く月のように)",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/08_Kagayaku_Tsukinoyouni_(輝く月のように)_Superfly.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "輝く月のように",
+      "artist": "Superfly",
+      "has_synced": false,
+      "path": "select/pl_01_輝く月のように_Superfly.txt"
+    }
+  ]
+}
